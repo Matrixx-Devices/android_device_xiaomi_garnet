@@ -567,6 +567,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0.vendor
+endif
 
 # Touchscreen
 PRODUCT_COPY_FILES += \
